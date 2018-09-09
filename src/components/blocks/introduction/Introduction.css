@@ -1,0 +1,9 @@
+.Introduction {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+.text-container {
+  display: grid;
+  grid-template-columns: minmax(0px, 0.33fr) minmax(350px, 0.66fr);
+  width: 100%;
+}

@@ -1,0 +1,27 @@
+.Header {
+  padding: 15px;
+}
+.header-logo {
+  object-fit: contain;
+  flex: 1;
+  max-height: 50px;
+}
+.header-navigation {
+  flex: 1;
+  display: flex;
+}
+.header-route {
+  flex: 1;
+  border: none;
+  background-color: rgba(0,0,0,0);
+  text-align: center;
+}
+.header-route:focus {
+  outline: none;
+}
+.header-route:hover {
+  color: blue;
+}
+.header-content {
+  display: flex;
+}
