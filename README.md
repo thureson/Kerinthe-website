@@ -5,7 +5,6 @@ http://kerinthe.com
 Kerinthe.
 
 Work in progress.
-Made with template Top-Down-React.
 
 ### Setup
 ```
