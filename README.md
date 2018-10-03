@@ -2,8 +2,6 @@
 
 http://kerinthe.com
 
-Kerinthe.
-
 Work in progress.
 
 ### Setup
